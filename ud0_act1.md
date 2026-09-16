@@ -38,3 +38,41 @@
         </contenido>
     </modulo>
 </dam>
+
+<paises>
+    <pais>
+        <nombre>España</nombre>
+        <capital>Madrid</capital>
+        <continente>Europa</continente>
+        <idioma>Español</idioma>
+    </pais>
+
+    <pais>
+        <nombre>Brasil</nombre>
+        <capital>Brasilia</capital>
+        <continente>América del Sur</continente>
+        <idioma>Portugués</idioma>
+    </pais>
+
+    <pais>
+        <nombre>Japón</nombre>
+        <capital>Tokio</capital>
+        <continente>Asia</continente>
+        <idioma>Japonés</idioma>
+    </pais>
+
+    <pais>
+        <nombre>Francia</nombre>
+        <capital>París</capital>
+        <continente>Europa</continente>
+        <idioma>Francés</idioma>
+    </pais>
+
+    <pais>
+        <nombre>Egipto</nombre>
+        <capital>El Cairo</capital>
+        <continente>África</continente>
+        <idioma>Árabe</idioma>
+    </pais>
+</paises>
+
