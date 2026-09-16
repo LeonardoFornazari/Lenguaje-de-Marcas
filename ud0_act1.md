@@ -75,3 +75,35 @@
         <idioma>Árabe</idioma>
     </pais>
 </paises>
+
+<libros>
+    <libro>
+        <titulo>FALCO</titulo>
+        <formato>En papel</formato>
+        <isbn>9788420419688</isbn>
+        <autor>ARTURO PEREZ REVERTE</autor>
+        <paginas>296 págs</paginas>
+        <editorial>ALFAGUARA</editorial>
+        <idioma>CASTELLÀ</idioma>
+    </libro>
+
+    <libro>
+        <titulo>TODO ALATRISTE</titulo>
+        <formato>EBOOK</formato>
+        <isbn>9788420425528</isbn>
+        <autor>ARTURO PEREZ REVERTE</autor>
+        <editorial>ALFAGUARA</editorial>
+        <idioma>CASTELLÀ</idioma>
+    </libro>
+
+    <libro>
+        <titulo>HOMBRES BUENOS</titulo>
+        <formato>En papel</formato>
+        <isbn>9788466329804</isbn>
+        <autor>ARTURO PEREZ REVERTE</autor>
+        <editorial>PUNTO DE LECTURA</editorial>
+        <fecha>2024</fecha>
+        <descripcion>La heróica aventura de quienes se atrevieron a cambiar el mundo con libros. En tiempos de oscuridad siempre hubo hombres buenos que lucharon para llevar las luces y el progreso. Y otros que procuraron impedirlo.</descripcion>
+        <idioma>CASTELLÀ</idioma>
+    </libro>
+</libros>
