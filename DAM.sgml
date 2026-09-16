@@ -11,9 +11,9 @@
     <modulo>
         <titulo>Programación</titulo>
         <contenido>
-            <unidad>Introducción a la programación</unidad>
-            <unidad>Variables</unidad>
-            <unidad>Condicionales</unidad>
+            <unidad>Algoritmos</unidad>
+            <unidad>Programas</unidad>
+            <unidad>Datos de entrada y salida</unidad>
         </contenido>
     </modulo>
 
@@ -22,16 +22,16 @@
         <contenido>
             <unidad>Hardware</unidad>
             <unidad>Software</unidad>
-            <unidad>Sistemas operativos</unidad>
+            <unidad>Arquitecturas Informáticas</unidad>
         </contenido>
     </modulo>
 
     <modulo>
         <titulo>Bases de Datos</titulo>
         <contenido>
-            <unidad>Introducción a las bases de datos</unidad>
-            <unidad>Tablas</unidad>
-            <unidad>Consultas</unidad>
+            <unidad>Sistemas de almacenamiento de la información</unidad>
+            <unidad>Datos</unidad>
+            <unidad>Ficheros</unidad>
         </contenido>
     </modulo>
 </dam>
