@@ -1,4 +1,5 @@
-## Predicción
+## Ejercicio 5 - Colisiones y refactorización
+## Predicciones
 
 | Elemento | Color | Razón |
 |---|---|---|
