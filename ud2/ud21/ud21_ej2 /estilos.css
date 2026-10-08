@@ -1,0 +1,20 @@
+* {
+    font-family: Arial;
+}
+h1 {
+    color: darkblue;
+    text-align: center;
+    margin-bottom: 20px;
+}
+h2 {
+    color: darkgreen;
+}
+p {
+    text-align: justify;
+    font-size: 16px;
+    line-height: 1.5;
+}
+/*
+Si ponemos la regla universal al final, el resultado no cambia
+porque solo establece la fuente y no modifica las demás propiedades.
+*/
