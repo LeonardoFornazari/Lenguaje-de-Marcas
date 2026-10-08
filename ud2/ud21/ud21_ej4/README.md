@@ -1,4 +1,4 @@
-## Ejercicio 4 - Identificadores y atributos ##
+## Ejercicio 4 - Identificadores y atributos
 Mensaje de error:
 Error: Duplicate ID corp.
 From line 10, column 5; to line 10, column 18
