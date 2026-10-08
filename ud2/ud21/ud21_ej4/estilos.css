@@ -1,0 +1,13 @@
+#corp {
+    color: darkblue;
+    text-align: center;
+}
+.corp {
+    color: darkgreen;
+}
+a[target] {
+    color: orange;
+}
+p[class] {
+    background-color: lightgray;
+}
