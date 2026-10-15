@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+ <head>
+    <meta charset="UTF-8">
+     <title>Ej 2.3</title>
+     <style>
+        body{
+            border: brown;
+            }
+        table {
+            border: 10px groove white;
+        }
+    </style>
+</head>
+        <h3>Formulario de alta de usuario</h3>
+            <table>
+                <tr>
+                    <td colspan="2">
+                        Identificador de nuevo usuario
+                    <form method="post" action="https://172.30.18.224:3000/"></form>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Nombre:
+                        <input type="text">
+                    </td>
+                </tr>
+                 <tr>
+                    <td>
+                        Apellidos:
+                        <input type="text">
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        Email:
+                        <input type="text">
+                    </td>
+                </tr>
+            </table>
+ <link rel="stylesheet" href="estilos.css">
+</head>
+</body>
+</html>
