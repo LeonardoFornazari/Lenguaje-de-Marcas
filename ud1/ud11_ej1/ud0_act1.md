@@ -1,14 +1,6 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Leonardo - Mi primera página</title>
-</head>
-<body>
-    <h1>Hola, soy Leonardo</h1>
-    <p>He elegido el ciclo formativo de Desarrollo de Aplicaciones Web porque me interesa la informática y la programación. Quiero aprender a crear páginas web y aplicaciones para trabajar en el sector tecnológico.</p>
-</body>
-</html>
+<h1>Texto Grande</h1>
+<h1>Texto Pequeño</h1>
+    
 
 
 <dam>
