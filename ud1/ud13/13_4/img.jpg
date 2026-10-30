@@ -1,0 +1,3 @@
+ <!-- Imagen local: está guardada en nuestra carpeta img. Elegiría esta opción para asegurar que la imagen esté disponible aunque no tengamos conexión a Internet. -->
+        <img src="img/mochila.jpg" alt="Mochila para portátil de color oscuro con varios compartimentos" width="300" height="300" style="border: 2px solid black;">
+        <!-- Imagen remota: está alojada en un servidor de Internet. Elegiría esta opción para utilizar imágenes o iconos sin tener que guardarlos en nuestro proyecto. -->
