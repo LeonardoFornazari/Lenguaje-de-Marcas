@@ -1,9 +1,0 @@
-1. Línea 1: La declaración DOCTYPE está mal escrita. Pone <!DOCTYPE htm> en vez de <!DOCTYPE html>.
-2. Línea 2: El atributo lang está mal escrito. Pone lan=es en vez de lang="es".
-3. Línea 4: La etiqueta <title> no está cerrada. Falta </title> después de "Página de contacto".
-4. Línea 7: La etiqueta <h1> no está cerrada correctamente. Pone <h1> dos veces en vez de utilizar </h1> para cerrar el título.
-5. Línea 8: Las etiquetas <b> y <p> están cerradas en el orden incorrecto. Se cierra primero <p> y después </b>, cuando debe cerrarse primero </b> y después </p>.
-6. Línea 10: Falta la etiqueta de cierre </p> al final del párrafo del horario de atención.
-7. Línea 12: Falta la etiqueta de cierre </li> después de "Teléfono".
-8. Línea 13: Falta la etiqueta de cierre </li> después de "Email".
-9. Cabecera: Falta la etiqueta <meta charset="UTF-8"> para declarar la codificación de caracteres.
