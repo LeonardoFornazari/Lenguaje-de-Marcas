@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.ingredientes {
+    list-style-type: square;
+}
+.elaboracion {
+    list-style-type: upper-roman;
+}
+.utensilios {
+    list-style-type: circle;
+}
