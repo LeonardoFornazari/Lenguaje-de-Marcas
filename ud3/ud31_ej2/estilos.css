@@ -1,0 +1,65 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #F0F2F5;
+}
+.banner {
+    background-color: #183153;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+.menu {
+    background-color: #16A6A1;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.menu li {
+    margin: 0;
+}
+.menu a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 15px 25px;
+}
+.menu a:hover {
+    background-color: #117C78;
+}
+.contenido {
+    width: 80%;
+    margin: 30px auto;
+}
+.seccion {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 25px;
+    border: 1px solid #CCCCCC;
+    border-radius: 8px;
+}
+.seccion h2 {
+    color: #183153;
+}
+.subir {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #183153;
+    color: white;
+    text-decoration: none;
+    padding: 12px 18px;
+    border-radius: 8px;
+}
+.subir:hover {
+    background-color: #16A6A1;
+}
