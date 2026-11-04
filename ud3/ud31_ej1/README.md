@@ -16,10 +16,3 @@ Los demás cuadros no ocupan un hueco para el cuadro 3 porque este ya no forma p
 He utilizado top: -40px para desplazar el cuadro 2 hacia arriba y conseguir que se solape con el cuadro 1.
 Después he utilizado z-index para controlar el orden de los cuadros.
 El cuadro 1 tiene z-index: 2 y el cuadro 2 tiene z-index: 1. Por eso el cuadro 1 aparece por encima del cuadro 2.
-
-## Conclusión
-He aprendido que position permite controlar la posición de los elementos de una página.
-- static: posición normal.
-- relative: permite desplazar el elemento sin perder su espacio original.
-- absolute: saca el elemento del flujo normal y lo posiciona respecto a su bloque contenedor de referencia.
-- z-index: controla el orden de superposición de los elementos posicionados.
