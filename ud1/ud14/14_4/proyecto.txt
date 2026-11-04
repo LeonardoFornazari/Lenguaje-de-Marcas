@@ -1,0 +1,10 @@
+Información del proyecto: Mi primera página HTML
+
+Este proyecto consiste en crear una página web
+utilizando el lenguaje HTML.
+
+En él he aprendido a utilizar diferentes etiquetas
+para organizar el contenido, como títulos, párrafos,
+listas, imágenes y enlaces.
+
+El objetivo es aprender los fundamentos del desarrollo web.
