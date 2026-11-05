@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F0F2F5;
+    margin: 30px;
+}
+{
+    width: 300px;
+    padding: 20px;
+    border: 2px solid #183153;
+    border-radius: 10px;
+    background-color: white;
+    position: relative;
+}
+{
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+{
+    height: 150px;
+    background-color: #DCEBFA;
+    text-align: center;
+    line-height: 150px;
+    color: #183153;
+    font-size: 20px;
+}
+{
+    color: #16A6A1;
+    font-size: 22px;
+    font-weight: bold;
+}
+{
+    width: 300px;
+    height: 120px;
+    border: 2px solid #183153;
+    background-color: white;
+    padding: 10px;
+    overflow: auto;
+}
+{
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+.tarjeta-pequena {
+    width: 180px;
+    padding: 15px;
+    border: 2px solid #183153;
+    border-radius: 8px;
+    background-color: white;
+}
+{
+    visibility: hidden;
+}
+.eliminada {
+    display: none;
+}
